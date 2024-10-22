@@ -1,4 +1,4 @@
-using Tyuiu.BuyanovaVI.Sprint2.Task0.V30.Lib;
+﻿using Tyuiu.BuyanovaVI.Sprint2.Task0.V30.Lib;
 
 namespace Tyuiu.BuyanovaVI.Sprint2.Task0.V30.Test
 {
